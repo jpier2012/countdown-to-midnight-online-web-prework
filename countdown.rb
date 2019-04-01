@@ -7,4 +7,3 @@ def countdown number
     counter -= 1
   end
 end
-
